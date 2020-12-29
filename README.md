@@ -1,6 +1,8 @@
 # Climbing-Fall-Device-IoT
 Devices used for climbing/hiking that can detect emergency falls in areas with no internet access.
 
+Collaborators: Endric Daues, Jens Daci, Daniel Klass
+
 - A remote device for climbing/hiking that can detect emergency falls in areas with no internet access.
 - Obtained raw data from the accelerometer, performed a Fast Fourier Transform (FFT), and extracted necessary features to help in detecting human actions such as resting, walking, and climbing.
 - A base station that communicates with the remote device using LoRa Radio Transceiver and signals emergency contacts through Email, Text Message, and Twitter.
